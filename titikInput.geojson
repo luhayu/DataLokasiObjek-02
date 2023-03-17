@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "titikInput",
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "nama": "alkid", "deskripsi": "alun-alun kidul", "latitude": -7.8042, "longitude": "110.36449", "foto": null, "created_at": null, "updated_at": null, "deleted_at": null }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 2, "nama": "alkid", "deskripsi": "alun-alun kidul", "latitude": -7.81207, "longitude": "110.36337", "foto": null, "created_at": "2023-03-06T07:31:24", "updated_at": "2023-03-06T07:31:24", "deleted_at": null }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 3, "nama": "alkid", "deskripsi": "alun-alun kidul", "latitude": -7.81211, "longitude": "110.36342", "foto": null, "created_at": "2023-03-06T08:11:34", "updated_at": "2023-03-06T08:11:34", "deleted_at": null }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 4, "nama": "jshfl", "deskripsi": "sdgrwgr", "latitude": -7.80059, "longitude": "110.37736", "foto": null, "created_at": "2023-03-06T08:11:46", "updated_at": "2023-03-06T08:11:46", "deleted_at": null }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 5, "nama": "Lokasilah", "deskripsi": "entah di mana", "latitude": -7.79694, "longitude": "110.36072", "foto": null, "created_at": "2023-03-06T08:15:32", "updated_at": "2023-03-06T08:15:32", "deleted_at": null }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 6, "nama": "jyyu", "deskripsi": "kjghj", "latitude": -7.80003, "longitude": "110.34839", "foto": null, "created_at": "2023-03-06T08:25:57", "updated_at": "2023-03-06T08:25:57", "deleted_at": null }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 7, "nama": "Stadion Mandala Krida", "deskripsi": "Stadion Mandala Krida", "latitude": -7.79617, "longitude": "110.38427", "foto": "mandala_krida.jpg", "created_at": "2023-03-13T06:53:13", "updated_at": "2023-03-13T06:53:13", "deleted_at": null }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 8, "nama": "GOR Among Rogo", "deskripsi": "GOR Among Rogo", "latitude": -7.7985, "longitude": "110.38540", "foto": "Gor+Among+Rogo.jpg", "created_at": "2023-03-13T06:59:48", "updated_at": "2023-03-13T06:59:48", "deleted_at": null }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 9, "nama": "Padang Golf Adisucipto", "deskripsi": "Padang Golf Adisucipto", "latitude": -7.79574, "longitude": "110.43144", "foto": "Padang_Golf_Adisucipto.jpeg", "created_at": "2023-03-13T07:02:46", "updated_at": "2023-03-13T07:02:46", "deleted_at": null }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 10, "nama": "Area contoh 1", "deskripsi": "Area contoh 1", "latitude": -7.79753, "longitude": "110.38792", "foto": null, "created_at": "2023-03-13T07:42:18", "updated_at": "2023-03-13T07:42:18", "deleted_at": null }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 11, "nama": "Cek Ability", "deskripsi": "Tes PDF", "latitude": -7.79867, "longitude": "110.36342", "foto": "Soal_Pak_Karen.pdf", "created_at": "2023-03-13T18:21:08", "updated_at": "2023-03-13T18:21:08", "deleted_at": null }, "geometry": null }
+]
+}
